@@ -22,14 +22,15 @@
   }
 }
 
-
-
-
 .titlebar{
     font-size: 1em;
     line-height: 1.25em;
     text-align: center;
+    margin-top: 15px;
 }
+
+
+
 
 
 
@@ -11316,7 +11317,7 @@ print {
   position: absolute;
   top: 0;
   width: 100%;
-  background-color: #9E6439;
+  background-color: rgba(0, 0, 0, 0.45);
 }
 
 .lg-toolbar .lg-icon {
@@ -13412,7 +13413,6 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
 
 
-/*BEGIN TESTING------DELETE LATER*/
 
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Courgette|Niconne|Crimson+Text|Cookie');
 
@@ -13440,6 +13440,7 @@ h3{
   font-weight: 700;
   text-shadow: 0px 0px 8px #503C30;
   text-align: center;
+    margin-top: 25px;
 }
 
 p{
@@ -13458,10 +13459,8 @@ blockquote{
   line-height: 90%;
 }
 
-//img{
-//  border-radius: 3%;
-//  border: 3px #654025 solid;
-//}
+img{
+  border-radius: 3%;
+  border: 3px #654025 solid;
+}
 
-
-/*END TESTING*/
