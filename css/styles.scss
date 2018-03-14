@@ -17,6 +17,16 @@ html{
   margin-bottom: 25px;
 }
 
+.titlebar{
+    font-size: 1em;
+    line-height: 1.25em;
+    text-align: center;
+}
+
+.column is-12{
+    text-align: center;
+}
+
 h1{
   font-size: 5em;
   color: #EBCF7F;
@@ -50,13 +60,13 @@ blockquote{
   line-height: 90%;
 }
 
-//img{
-//  border-radius: 3%;
-//  border: 3px #654025 solid;
-//}
 
 .column-is-3 a{
     font-family: 'Courgette', cursive;
     color: #FDF4C0;
     font-size: 1.1em;
+}
+
+footer{
+    text-align: center;
 }
